@@ -1,0 +1,22 @@
+{
+  "name": "server-side-day2",
+  "version": "1.0.0",
+  "main": "demo-http-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhakhananSr/server-side-day2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhakhananSr/server-side-day2/issues"
+  },
+  "homepage": "https://github.com/PhakhananSr/server-side-day2#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
